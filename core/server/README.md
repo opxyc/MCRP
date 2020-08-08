@@ -1,5 +1,5 @@
 ## Server
-Provides API support for the control centre module.
+Provides API support for the control centre module and web interface.
 
 ```js
 /*for common users*/
