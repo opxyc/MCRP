@@ -20,8 +20,9 @@ with open(latest, "r+") as file1:
     for x in cases:     
         for line in zlines:
             if x == line:
-                 print(a['desc'][cases.index(x)]['_id'])
+                 print('Match found for',x)
+                 #print(a['desc'][cases.index(x)]['_id'])
                  incidentId= a['desc'][cases.index(x)]['_id']
-                 response=requests.post('http://coderscafe.hackp.cyberdome.org.in:80/update-case-file', json={'authToken': 'heWasASimilarBlackPen',"incidentId" : incidentId,"newInfo" : {"date" : str(date.today()),"time" : ylines[-1],"location" : "Kannur"} })
-                 print(response.json())
+                 response=requests.post('http://coderscafe.hackp.cyberdome.org.in:80/update-case-file', json={'authToken': 'heWasASimilarBlackPen',"incidentId" : incidentId,"newInfo" : {"date" : str(date.today()),"time" : ylines[-1],"location" : "Kannur Cam 2"} })
+                 #print(response.json())
 
