@@ -9,7 +9,7 @@ The system consists of 2 parts,
 
 **1. The Core**
 
-Suppose there are 'n' control centres or surveillance centres working in the state. We will provide a stand-alone software (based on ALPR AI) which have the potential to monitor the live cam feeds streamed to the centre (this is restricted to some potential limitations of computational power and resource requirements) which continuously recognises all the license plate numbers passing through the cam feed. The license plate numbers recognised by the software is logged to a centralized server (in fixed intervals of time, say 1 hour). Let's call this system as the core.
+Suppose there are 'n' control centres or surveillance centres working in the state. We will provide a stand-alone software (based on ALPR AI) which have the potential to monitor the live cam feeds streamed to the centre (this is restricted to some potential limitations of computational power and resource requirements) which continuously recognises all the license plate numbers passing through the cam feed. The license plate numbers recognised by the software and is connected  to a centralized server. Let's call this system as the core.
 
 **2. The Interface**
 
