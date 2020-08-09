@@ -10,7 +10,7 @@ for i in range(len(a['desc'])):
     cases.append(a['desc'][i]['vehicleNumber'])
     print(cases)
 
-list_of_files = glob.glob('/home/user/Documents/log/*') # * means all if need specific format then *.csv
+list_of_files = glob.glob('/home/user/Documents/surveillance-centre/log/*') # * means all if need specific format then *.csv
 latest= max(list_of_files, key=os.path.getctime)
 
 with open(latest, "r+") as file1:
