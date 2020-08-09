@@ -1,0 +1,640 @@
+13:05
+Frame: 0
+Frame: 1
+Frame: 2
+Frame: 3
+plate0: 10 results
+    - LA05AF4965	 confidence: 82.4494
+    - LAO5AF4965	 confidence: 79.4828
+    - LA05AFA965	 confidence: 77.7261
+    - LA05DF4965	 confidence: 77.4852
+    - LAD5AF4965	 confidence: 77.3585
+    - LA050F4965	 confidence: 77.0095
+    - LAQ5AF4965	 confidence: 76.8676
+    - LA05AE4965	 confidence: 76.192
+    - LA05AF49G5	 confidence: 76.1766
+    - LA05AF49B5	 confidence: 75.3956
+Frame: 4
+plate0: 10 results
+    - KAO5AF4965	 confidence: 82.5684
+    - KAO5DF4965	 confidence: 81.5072
+    - KA05AF4965	 confidence: 80.6321
+    - KAO50F4965	 confidence: 80.3032
+    - KAO5OF4965	 confidence: 80.024
+    - KAO5RF4965	 confidence: 79.9532
+    - KAO5QF4965	 confidence: 79.9463
+    - KAO5HF4965	 confidence: 79.7421
+    - KAO5MF4965	 confidence: 79.6974
+    - KA05DF4965	 confidence: 79.571
+Frame: 5
+Frame: 6
+Frame: 7
+Frame: 8
+plate0: 5 results
+    - KA05AF4965	 confidence: 82.052
+    - KA05DF4965	 confidence: 80.6869
+    - KA05OF4965	 confidence: 80.1669
+    - KA05RF4965	 confidence: 80.1139
+    - KA05AE4965	 confidence: 79.4813
+Frame: 9
+plate0: 3 results
+    - KAO5AF4965	 confidence: 83.4543
+    - KA05AF4965	 confidence: 81.0957
+    - KAO5AF49G5	 confidence: 81.0576
+Frame: 10
+plate0: 10 results
+    - IKA05A4965	 confidence: 82.7001
+    - IKAO5A4965	 confidence: 81.5507
+    - IKAQ5A4965	 confidence: 78.6604
+    - IKA05AF4965	 confidence: 78.6209
+    - IKA05AA965	 confidence: 78.3947
+    - IKAD5A4965	 confidence: 78.3767
+    - IKA05AF965	 confidence: 78.0982
+    - IKAO5AF4965	 confidence: 77.4715
+    - IKA05AE4965	 confidence: 77.2555
+    - IKAO5AA965	 confidence: 77.2453
+Frame: 11
+plate0: 10 results
+    - IKA05F4965	 confidence: 83.0478
+    - IKA05AF4965	 confidence: 81.8784
+    - IA05AF4965	 confidence: 81.3063
+    - IKA05A4965	 confidence: 80.7082
+    - IKAO5F4965	 confidence: 80.5873
+    - IKA05DF4965	 confidence: 80.0478
+    - IKA050F4965	 confidence: 79.6039
+    - IA05DF4965	 confidence: 79.4758
+    - IKAO5AF4965	 confidence: 79.4179
+    - IKA05QF4965	 confidence: 79.3459
+Frame: 12
+plate0: 10 results
+    - IKA05F4965	 confidence: 83.3109
+    - 0KA05F4965	 confidence: 81.5334
+    - IKA05AF4965	 confidence: 81.1555
+    - DKA05F4965	 confidence: 80.1523
+    - QKA05F4965	 confidence: 80.0838
+    - IKA050F4965	 confidence: 79.6997
+    - IKA05F49G5	 confidence: 79.4673
+    - 0KA05AF4965	 confidence: 79.378
+    - IKA05DF4965	 confidence: 79.0527
+    - KA05AF4965	 confidence: 78.7884
+Frame: 13
+plate0: 10 results
+    - IKAO5AF4965	 confidence: 83.7299
+    - IKAO5A4965	 confidence: 83.6303
+    - IKAO5F4965	 confidence: 83.4846
+    - IAO5AF4965	 confidence: 82.9364
+    - IKO5AF4965	 confidence: 81.7404
+    - IKAO5AE4965	 confidence: 80.7037
+    - IKAO5E4965	 confidence: 80.4584
+    - IAO5AE4965	 confidence: 79.9102
+    - IKAO50F4965	 confidence: 79.4979
+    - IKAO5AP4965	 confidence: 79.4975
+Frame: 14
+plate0: 10 results
+    - IA05AF4965	 confidence: 80.685
+    - IA050F4965	 confidence: 79.8182
+    - IKA05F4965	 confidence: 78.3601
+    - IKA05AF965	 confidence: 78.2089
+    - IKA050F965	 confidence: 77.3421
+    - IKA05AF4965	 confidence: 77.2678
+    - 1A05AF4965	 confidence: 76.5426
+    - IKA050F4965	 confidence: 76.401
+    - IA05AE4965	 confidence: 75.7531
+    - 1A050F4965	 confidence: 75.6759
+Frame: 15
+plate0: 10 results
+    - KAO5AF4965	 confidence: 82.9461
+    - KAO5AF49G5	 confidence: 81.3118
+    - KAO5AE4965	 confidence: 79.448
+    - KAO5AP4965	 confidence: 78.446
+    - RAO5AF4965	 confidence: 77.8901
+    - KAO5AE49G5	 confidence: 77.8137
+    - MAO5AF4965	 confidence: 77.7896
+    - HAO5AF4965	 confidence: 77.5142
+    - UAO5AF4965	 confidence: 77.3763
+    - KAO5AF49B5	 confidence: 77.0961
+Frame: 16
+plate0: 1 results
+    - A05AF49657	 confidence: 79.5074
+Frame: 17
+plate0: 2 results
+    - KA05AF4965	 confidence: 80.0991
+    - KAO5AF4965	 confidence: 78.6317
+Frame: 18
+Frame: 19
+Frame: 20
+Frame: 21
+Frame: 22
+Frame: 23
+Frame: 24
+Frame: 25
+Frame: 26
+plate0: 1 results
+    - KA05F4965D	 confidence: 81.1086
+Frame: 27
+Frame: 28
+plate0: 4 results
+    - KAO5AF4965	 confidence: 81.3796
+    - KAO50F4965	 confidence: 78.8235
+    - KAO5AF49G5	 confidence: 78.7785
+    - KAO5DF4965	 confidence: 78.6364
+Frame: 29
+plate0: 10 results
+    - KAO5AF4965	 confidence: 80.3539
+    - KA05AF4965	 confidence: 77.6393
+    - UAO5AF4965	 confidence: 77.1662
+    - MAO5AF4965	 confidence: 76.3063
+    - HAO5AF4965	 confidence: 76.2927
+    - RAO5AF4965	 confidence: 76.0276
+    - DAO5AF4965	 confidence: 75.6927
+    - KAD5AF4965	 confidence: 75.5183
+    - KAO5AF49G5	 confidence: 75.2336
+    - KAQ5AF4965	 confidence: 74.6964
+Frame: 30
+Frame: 31
+Frame: 32
+Frame: 33
+Frame: 34
+Frame: 35
+Frame: 36
+Frame: 37
+Frame: 38
+Frame: 39
+Frame: 40
+Frame: 41
+Frame: 42
+Frame: 43
+Frame: 44
+Frame: 45
+Frame: 46
+Frame: 47
+Frame: 48
+Frame: 49
+Frame: 50
+Frame: 51
+Frame: 52
+Frame: 53
+Frame: 54
+Frame: 55
+Frame: 56
+Frame: 57
+Frame: 58
+Frame: 59
+Frame: 60
+Frame: 61
+Frame: 62
+Frame: 63
+Frame: 64
+Frame: 65
+Frame: 66
+Frame: 67
+Frame: 68
+Frame: 69
+Frame: 70
+Frame: 71
+Frame: 72
+Frame: 73
+Frame: 74
+Frame: 75
+Frame: 76
+Frame: 77
+Frame: 78
+Frame: 79
+Frame: 80
+Frame: 81
+Frame: 82
+Frame: 83
+Frame: 84
+Frame: 85
+Frame: 86
+Frame: 87
+Frame: 88
+Frame: 89
+Frame: 90
+Frame: 91
+Frame: 0
+Frame: 1
+Frame: 2
+Frame: 3
+plate0: 10 results
+    - LA05AF4965	 confidence: 82.4494
+    - LAO5AF4965	 confidence: 79.4828
+    - LA05AFA965	 confidence: 77.7261
+    - LA05DF4965	 confidence: 77.4852
+    - LAD5AF4965	 confidence: 77.3585
+    - LA050F4965	 confidence: 77.0095
+    - LAQ5AF4965	 confidence: 76.8676
+    - LA05AE4965	 confidence: 76.192
+    - LA05AF49G5	 confidence: 76.1766
+    - LA05AF49B5	 confidence: 75.3956
+Frame: 4
+plate0: 10 results
+    - KAO5AF4965	 confidence: 82.5684
+    - KAO5DF4965	 confidence: 81.5072
+    - KA05AF4965	 confidence: 80.6321
+    - KAO50F4965	 confidence: 80.3032
+    - KAO5OF4965	 confidence: 80.024
+    - KAO5RF4965	 confidence: 79.9532
+    - KAO5QF4965	 confidence: 79.9463
+    - KAO5HF4965	 confidence: 79.7421
+    - KAO5MF4965	 confidence: 79.6974
+    - KA05DF4965	 confidence: 79.571
+Frame: 5
+Frame: 6
+Frame: 7
+Frame: 8
+plate0: 5 results
+    - KA05AF4965	 confidence: 82.052
+    - KA05DF4965	 confidence: 80.6869
+    - KA05OF4965	 confidence: 80.1669
+    - KA05RF4965	 confidence: 80.1139
+    - KA05AE4965	 confidence: 79.4813
+Frame: 9
+plate0: 3 results
+    - KAO5AF4965	 confidence: 83.4543
+    - KA05AF4965	 confidence: 81.0957
+    - KAO5AF49G5	 confidence: 81.0576
+Frame: 10
+plate0: 10 results
+    - IKA05A4965	 confidence: 82.7001
+    - IKAO5A4965	 confidence: 81.5507
+    - IKAQ5A4965	 confidence: 78.6604
+    - IKA05AF4965	 confidence: 78.6209
+    - IKA05AA965	 confidence: 78.3947
+    - IKAD5A4965	 confidence: 78.3767
+    - IKA05AF965	 confidence: 78.0982
+    - IKAO5AF4965	 confidence: 77.4715
+    - IKA05AE4965	 confidence: 77.2555
+    - IKAO5AA965	 confidence: 77.2453
+Frame: 11
+plate0: 10 results
+    - IKA05F4965	 confidence: 83.0478
+    - IKA05AF4965	 confidence: 81.8784
+    - IA05AF4965	 confidence: 81.3063
+    - IKA05A4965	 confidence: 80.7082
+    - IKAO5F4965	 confidence: 80.5873
+    - IKA05DF4965	 confidence: 80.0478
+    - IKA050F4965	 confidence: 79.6039
+    - IA05DF4965	 confidence: 79.4758
+    - IKAO5AF4965	 confidence: 79.4179
+    - IKA05QF4965	 confidence: 79.3459
+Frame: 12
+plate0: 10 results
+    - IKA05F4965	 confidence: 83.3109
+    - 0KA05F4965	 confidence: 81.5334
+    - IKA05AF4965	 confidence: 81.1555
+    - DKA05F4965	 confidence: 80.1523
+    - QKA05F4965	 confidence: 80.0838
+    - IKA050F4965	 confidence: 79.6997
+    - IKA05F49G5	 confidence: 79.4673
+    - 0KA05AF4965	 confidence: 79.378
+    - IKA05DF4965	 confidence: 79.0527
+    - KA05AF4965	 confidence: 78.7884
+Frame: 13
+plate0: 10 results
+    - IKAO5AF4965	 confidence: 83.7299
+    - IKAO5A4965	 confidence: 83.6303
+    - IKAO5F4965	 confidence: 83.4846
+    - IAO5AF4965	 confidence: 82.9364
+    - IKO5AF4965	 confidence: 81.7404
+    - IKAO5AE4965	 confidence: 80.7037
+    - IKAO5E4965	 confidence: 80.4584
+    - IAO5AE4965	 confidence: 79.9102
+    - IKAO50F4965	 confidence: 79.4979
+    - IKAO5AP4965	 confidence: 79.4975
+Frame: 14
+plate0: 10 results
+    - IA05AF4965	 confidence: 80.685
+    - IA050F4965	 confidence: 79.8182
+    - IKA05F4965	 confidence: 78.3601
+    - IKA05AF965	 confidence: 78.2089
+    - IKA050F965	 confidence: 77.3421
+    - IKA05AF4965	 confidence: 77.2678
+    - 1A05AF4965	 confidence: 76.5426
+    - IKA050F4965	 confidence: 76.401
+    - IA05AE4965	 confidence: 75.7531
+    - 1A050F4965	 confidence: 75.6759
+Frame: 15
+plate0: 10 results
+    - KAO5AF4965	 confidence: 82.9461
+    - KAO5AF49G5	 confidence: 81.3118
+    - KAO5AE4965	 confidence: 79.448
+    - KAO5AP4965	 confidence: 78.446
+    - RAO5AF4965	 confidence: 77.8901
+    - KAO5AE49G5	 confidence: 77.8137
+    - MAO5AF4965	 confidence: 77.7896
+    - HAO5AF4965	 confidence: 77.5142
+    - UAO5AF4965	 confidence: 77.3763
+    - KAO5AF49B5	 confidence: 77.0961
+Frame: 16
+plate0: 1 results
+    - A05AF49657	 confidence: 79.5074
+Frame: 17
+plate0: 2 results
+    - KA05AF4965	 confidence: 80.0991
+    - KAO5AF4965	 confidence: 78.6317
+Frame: 18
+Frame: 19
+Frame: 20
+Frame: 21
+Frame: 22
+Frame: 23
+Frame: 24
+Frame: 25
+Frame: 26
+plate0: 1 results
+    - KA05F4965D	 confidence: 81.1086
+Frame: 27
+Frame: 28
+plate0: 4 results
+    - KAO5AF4965	 confidence: 81.3796
+    - KAO50F4965	 confidence: 78.8235
+    - KAO5AF49G5	 confidence: 78.7785
+    - KAO5DF4965	 confidence: 78.6364
+Frame: 29
+plate0: 10 results
+    - KAO5AF4965	 confidence: 80.3539
+    - KA05AF4965	 confidence: 77.6393
+    - UAO5AF4965	 confidence: 77.1662
+    - MAO5AF4965	 confidence: 76.3063
+    - HAO5AF4965	 confidence: 76.2927
+    - RAO5AF4965	 confidence: 76.0276
+    - DAO5AF4965	 confidence: 75.6927
+    - KAD5AF4965	 confidence: 75.5183
+    - KAO5AF49G5	 confidence: 75.2336
+    - KAQ5AF4965	 confidence: 74.6964
+Frame: 30
+Frame: 31
+Frame: 32
+Frame: 33
+Frame: 34
+Frame: 35
+Frame: 36
+Frame: 37
+Frame: 38
+Frame: 39
+Frame: 40
+Frame: 41
+Frame: 42
+Frame: 43
+Frame: 44
+Frame: 45
+Frame: 46
+Frame: 47
+Frame: 48
+Frame: 49
+Frame: 50
+Frame: 51
+Frame: 52
+Frame: 53
+Frame: 54
+Frame: 55
+Frame: 56
+Frame: 57
+Frame: 58
+Frame: 59
+Frame: 60
+Frame: 61
+Frame: 62
+Frame: 63
+Frame: 64
+Frame: 65
+Frame: 66
+Frame: 67
+Frame: 68
+Frame: 69
+Frame: 70
+Frame: 71
+Frame: 72
+Frame: 73
+Frame: 74
+Frame: 75
+Frame: 76
+Frame: 77
+Frame: 78
+Frame: 79
+Frame: 80
+Frame: 81
+Frame: 82
+Frame: 83
+Frame: 84
+Frame: 85
+Frame: 86
+Frame: 87
+Frame: 88
+Frame: 89
+Frame: 90
+Frame: 91
+Frame: 0
+Frame: 1
+Frame: 2
+Frame: 3
+plate0: 10 results
+    - LA05AF4965	 confidence: 82.4494
+    - LAO5AF4965	 confidence: 79.4828
+    - LA05AFA965	 confidence: 77.7261
+    - LA05DF4965	 confidence: 77.4852
+    - LAD5AF4965	 confidence: 77.3585
+    - LA050F4965	 confidence: 77.0095
+    - LAQ5AF4965	 confidence: 76.8676
+    - LA05AE4965	 confidence: 76.192
+    - LA05AF49G5	 confidence: 76.1766
+    - LA05AF49B5	 confidence: 75.3956
+Frame: 4
+plate0: 10 results
+    - KAO5AF4965	 confidence: 82.5684
+    - KAO5DF4965	 confidence: 81.5072
+    - KA05AF4965	 confidence: 80.6321
+    - KAO50F4965	 confidence: 80.3032
+    - KAO5OF4965	 confidence: 80.024
+    - KAO5RF4965	 confidence: 79.9532
+    - KAO5QF4965	 confidence: 79.9463
+    - KAO5HF4965	 confidence: 79.7421
+    - KAO5MF4965	 confidence: 79.6974
+    - KA05DF4965	 confidence: 79.571
+Frame: 5
+Frame: 6
+Frame: 7
+Frame: 8
+plate0: 5 results
+    - KA05AF4965	 confidence: 82.052
+    - KA05DF4965	 confidence: 80.6869
+    - KA05OF4965	 confidence: 80.1669
+    - KA05RF4965	 confidence: 80.1139
+    - KA05AE4965	 confidence: 79.4813
+Frame: 9
+plate0: 3 results
+    - KAO5AF4965	 confidence: 83.4543
+    - KA05AF4965	 confidence: 81.0957
+    - KAO5AF49G5	 confidence: 81.0576
+Frame: 10
+plate0: 10 results
+    - IKA05A4965	 confidence: 82.7001
+    - IKAO5A4965	 confidence: 81.5507
+    - IKAQ5A4965	 confidence: 78.6604
+    - IKA05AF4965	 confidence: 78.6209
+    - IKA05AA965	 confidence: 78.3947
+    - IKAD5A4965	 confidence: 78.3767
+    - IKA05AF965	 confidence: 78.0982
+    - IKAO5AF4965	 confidence: 77.4715
+    - IKA05AE4965	 confidence: 77.2555
+    - IKAO5AA965	 confidence: 77.2453
+Frame: 11
+plate0: 10 results
+    - IKA05F4965	 confidence: 83.0478
+    - IKA05AF4965	 confidence: 81.8784
+    - IA05AF4965	 confidence: 81.3063
+    - IKA05A4965	 confidence: 80.7082
+    - IKAO5F4965	 confidence: 80.5873
+    - IKA05DF4965	 confidence: 80.0478
+    - IKA050F4965	 confidence: 79.6039
+    - IA05DF4965	 confidence: 79.4758
+    - IKAO5AF4965	 confidence: 79.4179
+    - IKA05QF4965	 confidence: 79.3459
+Frame: 12
+plate0: 10 results
+    - IKA05F4965	 confidence: 83.3109
+    - 0KA05F4965	 confidence: 81.5334
+    - IKA05AF4965	 confidence: 81.1555
+    - DKA05F4965	 confidence: 80.1523
+    - QKA05F4965	 confidence: 80.0838
+    - IKA050F4965	 confidence: 79.6997
+    - IKA05F49G5	 confidence: 79.4673
+    - 0KA05AF4965	 confidence: 79.378
+    - IKA05DF4965	 confidence: 79.0527
+    - KA05AF4965	 confidence: 78.7884
+Frame: 13
+plate0: 10 results
+    - IKAO5AF4965	 confidence: 83.7299
+    - IKAO5A4965	 confidence: 83.6303
+    - IKAO5F4965	 confidence: 83.4846
+    - IAO5AF4965	 confidence: 82.9364
+    - IKO5AF4965	 confidence: 81.7404
+    - IKAO5AE4965	 confidence: 80.7037
+    - IKAO5E4965	 confidence: 80.4584
+    - IAO5AE4965	 confidence: 79.9102
+    - IKAO50F4965	 confidence: 79.4979
+    - IKAO5AP4965	 confidence: 79.4975
+Frame: 14
+plate0: 10 results
+    - IA05AF4965	 confidence: 80.685
+    - IA050F4965	 confidence: 79.8182
+    - IKA05F4965	 confidence: 78.3601
+    - IKA05AF965	 confidence: 78.2089
+    - IKA050F965	 confidence: 77.3421
+    - IKA05AF4965	 confidence: 77.2678
+    - 1A05AF4965	 confidence: 76.5426
+    - IKA050F4965	 confidence: 76.401
+    - IA05AE4965	 confidence: 75.7531
+    - 1A050F4965	 confidence: 75.6759
+Frame: 15
+plate0: 10 results
+    - KAO5AF4965	 confidence: 82.9461
+    - KAO5AF49G5	 confidence: 81.3118
+    - KAO5AE4965	 confidence: 79.448
+    - KAO5AP4965	 confidence: 78.446
+    - RAO5AF4965	 confidence: 77.8901
+    - KAO5AE49G5	 confidence: 77.8137
+    - MAO5AF4965	 confidence: 77.7896
+    - HAO5AF4965	 confidence: 77.5142
+    - UAO5AF4965	 confidence: 77.3763
+    - KAO5AF49B5	 confidence: 77.0961
+Frame: 16
+plate0: 1 results
+    - A05AF49657	 confidence: 79.5074
+Frame: 17
+plate0: 2 results
+    - KA05AF4965	 confidence: 80.0991
+    - KAO5AF4965	 confidence: 78.6317
+Frame: 18
+Frame: 19
+Frame: 20
+Frame: 21
+Frame: 22
+Frame: 23
+Frame: 24
+Frame: 25
+Frame: 26
+plate0: 1 results
+    - KA05F4965D	 confidence: 81.1086
+Frame: 27
+Frame: 28
+plate0: 4 results
+    - KAO5AF4965	 confidence: 81.3796
+    - KAO50F4965	 confidence: 78.8235
+    - KAO5AF49G5	 confidence: 78.7785
+    - KAO5DF4965	 confidence: 78.6364
+Frame: 29
+plate0: 10 results
+    - KAO5AF4965	 confidence: 80.3539
+    - KA05AF4965	 confidence: 77.6393
+    - UAO5AF4965	 confidence: 77.1662
+    - MAO5AF4965	 confidence: 76.3063
+    - HAO5AF4965	 confidence: 76.2927
+    - RAO5AF4965	 confidence: 76.0276
+    - DAO5AF4965	 confidence: 75.6927
+    - KAD5AF4965	 confidence: 75.5183
+    - KAO5AF49G5	 confidence: 75.2336
+    - KAQ5AF4965	 confidence: 74.6964
+Frame: 30
+Frame: 31
+Frame: 32
+Frame: 33
+Frame: 34
+Frame: 35
+Frame: 36
+Frame: 37
+Frame: 38
+Frame: 39
+Frame: 40
+Frame: 41
+Frame: 42
+Frame: 43
+Frame: 44
+Frame: 45
+Frame: 46
+Frame: 47
+Frame: 48
+Frame: 49
+Frame: 50
+Frame: 51
+Frame: 52
+Frame: 53
+Frame: 54
+Frame: 55
+Frame: 56
+Frame: 57
+Frame: 58
+Frame: 59
+Frame: 60
+Frame: 61
+Frame: 62
+Frame: 63
+Frame: 64
+Frame: 65
+Frame: 66
+Frame: 67
+Frame: 68
+Frame: 69
+Frame: 70
+Frame: 71
+Frame: 72
+Frame: 73
+Frame: 74
+Frame: 75
+Frame: 76
+Frame: 77
+Frame: 78
+Frame: 79
+Frame: 80
+Frame: 81
+Frame: 82
+Frame: 83
+Frame: 84
+Frame: 85
+Frame: 86
+Frame: 87
+Frame: 88
+Frame: 89
+Frame: 90
+Frame: 91
