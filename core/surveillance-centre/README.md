@@ -1,4 +1,6 @@
-This is the software that works in the surveillance centre. The sofware continuously(in fixed intervals) fetch the active cases from the server. Then it initiates a search through the logged numbers produced from ALPR by processing the CCTV visuals.
+# Surveillance Centre
+
+This is the software that is built for surveillance centre. The sofware continuously(in fixed intervals) fetch the active cases from the server. Then it initiates a search through the logged numbers produced from ALPR by processing the CCTV visuals.
 
 ## Usage
 Navigate to the **surveillance-centre** folder and use the command
