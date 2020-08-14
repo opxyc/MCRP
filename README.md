@@ -27,3 +27,5 @@ The assigned police officer can access the report [here](http://coderscafe.hackp
 1. Since the complaint is registered online there is no possibility of a delay between registration of the complaint and the commencement of the investigation.
 2. Since all the number plates are logged, it is easy to handle multiple cases using the same software.
 3. If police has a software to recognize number plates, the current solution is easily integrable.
+
+**Note** : The deployed website and APIs will not be avilable in the future.
